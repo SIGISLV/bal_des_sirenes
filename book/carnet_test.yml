@@ -22,8 +22,10 @@ content:
   - "queen/*.sg"
   - "creedence_clearwater_revival/bad_moon_rising.sg"
   - "elvis_presley/blue_sued_shoe.sg"
+  - "creedence_clearwater_revival/looking_out_my_backdoor.sg"
   - "coldplay/fix_you.sg"
   - "telephone/*.sg"
+
 
 template:
   default.tex:

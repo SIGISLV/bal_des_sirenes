@@ -3,6 +3,7 @@
 \beginsong{Fix you}
   [by={Coldplay},cover={fix_you},album={XY}]
   
+  \cover
   \begin{verse*}
     \musicnote {\Intro:} [C]  [Em]  [Am7]  [G] x2
   \end{verse*}

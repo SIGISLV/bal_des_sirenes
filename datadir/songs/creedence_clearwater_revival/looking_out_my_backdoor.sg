@@ -1,105 +1,66 @@
 \selectlanguage{english}
 \songcolumns{2}
 \beginsong{looking out my backdoor}
-  [by={creedance clearwater revival},cover={looking out my backdoor},album={Cosmo's Factory}]
+  [by={Creedence\ Clearwater\ Revival},cover={looking_out_my_back_door},album={Cosmo's Factory}]
   \cover
   
   \begin{verse*}
-    \musicnote {\Intro :}
+	\musicnote { Capo : 3rd fret}
+    \musicnote {\Intro :} [G] [Em] [C] [G] [D] [G]
   \end{verse*}
   
   \begin{verse}
-    Well, it's \[A]one for the money,
-    Two for the show,
-    Three to get ready,
-    Now \[A7]go, cat, go.
+    \[G]Just got home from Illinois \[Em]lock the front door oh bo
+	\[C]Got to set \[G]down take a \[D]rest on the porch
+	\[G]Fascination sets in \[Em]pretty soon I'm singing
+	\[C]Doot doot \[G]doot looking \[D]out my back [G]door
   \end{verse}
-
-  \begin{chorus}
-    But \[D]don't you step on my blue suede \[A]shoes.
-    You can \[E]do anything but \[D]lay off of my Blue suede \[A]shoes.
-  \end{chorus}
-
+  
   \begin{verse}
-    Well, you can \[A]knock me down,
-    Step in my face,
-    Slander my name
-    All over the place.
-    Do anything that you want to do, but uh-uh, 
-    Honey, \[A7]lay off of my shoes
+	\[G]There's a giant doing cartwheels, a st\[Em]atue wearing high heels
+	\[C]Look at all\[G] the happy creatures dan\[D]cing on the lawn
+	\[G]Dinosaur victrola lis\[Em]tening to Buck Owens
+	\[C]Doo, doo, \[G]doo, lookin' \[D]out my back \[G]door
   \end{verse}
-
-  \begin{chorus}
-    \[D]Don't you step on my Blue suede \[A]shoes.
-    Well you can \[E]do anything but \[D]lay off of my blue suede \[A]shoes.
-  \end{chorus}
-
-
-  \begin{verse}
-    You can \[A]burn my house,
-    Steal my car,
-    Drink my liquor 
-    From an old fruitjar.
-    Do anything that you want to do, but uh-uh, 
-    Honey, \[A7]lay off of my shoes
-  \end{verse}
-
-  \begin{chorus}
-    \[D]Don't you step on my Blue suede \[A]shoes.
-    Well you can \[E]do anything but \[D]lay off of my blue suede \[A]shoes.
-  \end{chorus}
 
   \begin{verse*}
+    \musicnote {Bridge 1}
+    \[D]Tambourines and elephants are pl\[C]aying in the b\[G]and
+	Won't you take a ride o\[Em]n the flyin' s\[D]poon, doo, doo, doo
+	\[G]Bother me tomorrow, \[Em]today I'll find no sorrow
+	\[C]Doo, Doo, \[G]Doo, lookin' \[D]out my back \[G]door
+  \end{verse*}
+
+  \begin{verse*}
+    \musicnote {solo}
+    [G] [Em] [C] [G] [D]
+    [G] [Em] [C] [G] [D] [G]
+  \end{verse*}
+
+  \begin{verse*}
+    \musicnote {Bridge 2}
+    \[D]Tambourines and elephants are pl\[C]aying in the b\[G]and
+	Won't you take a ride o\[Em]n the flyin' s\[D]poon, doo, doo, doo
+	\[G]Bother me tomorrow, \[Em]today I'll find no sorrow
+	\[C]Doo, Doo, \[G]Doo, lookin' \[D]out my back \[G]door
+  \end{verse*}
+  
+  \begin{verse*}
+    \musicnote {Break}
+    [G] [F\shrp m] [F] [E]   [D]   [A] 
+	[A]   [F\shrp m]   [E]
+  \end{verse*}
+  
+  \begin{verse}
+    \[A]Forward troubles Illinois, \[F\shrp m]lock the front door, oh boy
+	\[D]Look at all the \[A]happy creatures \[E]dancing on the lawn
+	\[A]Bother me tomorrow,\[F\shrp m] today I'll find no sorrow
+	\[D]Doo, doo, \[A]doo, lookin' \[E]out my back \[A]door
+  \end{verse}
+  
+  \begin{verse*}
     \musicnote {\Outro :}
-    Well it's a \[A]blue blue blue suede shoes
-    \[A]Blue blue blue suede shoes
-    \[D]Blue blue blue suede shoes
-    \[A]Blue blue blue suede shoes
-    You can \[E]do anything but \[D]lay off of my blue suede \[A]shoes.
+	[D] [A] [E] [A]
   \end{verse*}
   
 \endsong
-
-[E]Just got home from Illinois [C#m]lock the front door oh boy
-
-[A]Got to set [E]down take a [B7]rest on the porch
-
-[E]Fascination sets in [C#m]pretty soon I'm singing
-
-[A]Doot doot [E]doot looking [B7]out my back [E]door
-
-
-Giant doing cartwheels a [C#m]statue wearing high heels
-
-[A]Look at all the [E]happy creatures [B7]dancing on the lawn
-
-[E]Dinosaur victrola [C#m]listening to Buck Owens 
-
-[A]Doot doot [E]doot looking [B7]out my back [E]door
-
-
-[B7]Memories and elephants are [A]playing in the [E]band
-
-Won't you take a ride [C#m]on the flying s[B7]poon doot doo doo
-
-[E]Wondrous apparition [C#m]provided by magician
-
-[A]Doot doot [E]doot looking [B7]out my back [E]door
-
-
-[B7]Memories and elephants are [A]playing in the [E]band
-
-Won't you take a ride [C#m]on the flying s[B7]poon doot doo doo
-
-[E]Bother me tomorrow [C#m]today I'll find no sorrow
-
-[A]Doot doot [E]doot looking [B7]out my back [E]door
-
-
-All the trouble is Illinois [C#m]lock the front door oh boy
-
-[A]Look at all the [E]happy creatures [B7]dancing on the lawn 
-  
-[E]Bother me tomorrow [C#m]today I'll find no sorrow
-
-[A]Doot doot [E]doot looking [B7]out my back [E]door
