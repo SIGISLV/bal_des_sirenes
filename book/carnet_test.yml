@@ -1,0 +1,42 @@
+book:
+  lang: fr
+  encoding: utf8
+  datadir: "../datadir"
+  pictures: yes
+  template: patacrep.tex
+  onesongperpage: yes
+
+  
+chords:
+  show: yes
+  diagramreminder: all
+  diagrampage : none
+  repeatchords: yes
+  lilypond: no
+  instrument: guitar
+  tablatures: no
+  notation: alphascale
+
+content:
+  - "ed_sheeran/*.sg"
+  - "queen/*.sg"
+  - "creedence_clearwater_revival/bad_moon_rising.sg"
+  - "elvis_presley/blue_sued_shoe.sg"
+  - "coldplay/fix_you.sg"
+  - "telephone/*.sg"
+
+template:
+  default.tex:
+    title: "Bal des Sirènes"
+    author: "Lewis Villierme"
+  patacrep.tex:
+    picture: "img/QT_BrandNew.png"
+    subtitle: "La playlist des Quick Tranfer pour le bal des Sirènes le 22 juin 2019"
+    email: "lewisvillierme@gmail.com"
+    color:
+      songlink: FFFF00
+      hyperlink: 00FFFF
+    bgcolor:
+      note: D1F5AE
+      songnumber: AEFFE4
+      index: E4FFD1

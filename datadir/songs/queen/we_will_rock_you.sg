@@ -1,0 +1,77 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{We will rock you}
+  [by={Queen},cover={wewillrockyou},album={News of the world}]
+  
+  \cover
+  \gtab{A}{14:x0111x}
+  \gtab{D}{14:x0212x}
+
+  
+  \begin{verse*}
+    \textnote[french]{Acapela}
+  \end{verse*}
+
+  \begin{verse}
+    Buddy, you're a boy, make a big noise
+    
+    Playin' in the street, gonna be a big man some day
+    
+    You got mud on your face
+    
+    You big disgrace
+    
+    Kickin' your can all over the place, singin'
+  \end{verse}
+  
+  \begin{chorus}
+    We will, we will rock you
+    We will, we will rock you
+  \end{chorus}
+  
+  \begin{verse}
+    
+    Buddy, you're a young man, hard man
+    
+    Shouting in the street, gonna take on the world some day
+    
+    You got blood on your face
+    
+    A big disgrace
+    
+    Wavin' your banner all over the place
+  \end{verse}
+  
+  \begin{chorus}
+    
+    We will, we will rock you
+    
+    We will, we will rock you
+  \end{chorus}
+
+  \begin{verse}
+    
+    Buddy, you're an old man, poor man
+    
+    Pleadin' with your eyes, gonna make you some peace some day
+    
+    You got mud on your face
+    
+    Big disgrace
+    
+    Somebody better put you back into your place
+  \end{verse}
+
+  \begin{chorus}
+    
+    We will, we will rock you
+    
+    We will, we will rock you
+  \end{chorus}
+
+  
+  \begin{verse*}
+    \musicnote {\Outro : solo}
+  \end{verse*}
+
+\endsong

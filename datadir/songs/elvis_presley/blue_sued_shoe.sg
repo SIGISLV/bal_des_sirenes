@@ -1,0 +1,61 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Blue sued shoe}
+  [by={Elvis Presley},cover={blue_sued_shoe},album={Elvis Presley}]
+  \cover
+  
+  \begin{verse*}
+    \musicnote {\Intro :}
+  \end{verse*}
+  
+  \begin{verse}
+    Well, it's \[A]one for the money,
+    Two for the show,
+    Three to get ready,
+    Now \[A7]go, cat, go.
+  \end{verse}
+
+  \begin{chorus}
+    But \[D]don't you step on my blue suede \[A]shoes.
+    You can \[E]do anything but \[D]lay off of my Blue suede \[A]shoes.
+  \end{chorus}
+
+  \begin{verse}
+    Well, you can \[A]knock me down,
+    Step in my face,
+    Slander my name
+    All over the place.
+    Do anything that you want to do, but uh-uh, 
+    Honey, \[A7]lay off of my shoes
+  \end{verse}
+
+  \begin{chorus}
+    \[D]Don't you step on my Blue suede \[A]shoes.
+    Well you can \[E]do anything but \[D]lay off of my blue suede \[A]shoes.
+  \end{chorus}
+
+
+  \begin{verse}
+    You can \[A]burn my house,
+    Steal my car,
+    Drink my liquor 
+    From an old fruitjar.
+    Do anything that you want to do, but uh-uh, 
+    Honey, \[A7]lay off of my shoes
+  \end{verse}
+
+  \begin{chorus}
+    \[D]Don't you step on my Blue suede \[A]shoes.
+    Well you can \[E]do anything but \[D]lay off of my blue suede \[A]shoes.
+  \end{chorus}
+
+  \begin{verse*}
+    \musicnote {\Outro :}
+    Well it's a \[A]blue blue blue suede shoes
+    \[A]Blue blue blue suede shoes
+    \[D]Blue blue blue suede shoes
+    \[A]Blue blue blue suede shoes
+    You can \[E]do anything but \[D]lay off of my blue suede \[A]shoes.
+  \end{verse*}
+  
+\endsong

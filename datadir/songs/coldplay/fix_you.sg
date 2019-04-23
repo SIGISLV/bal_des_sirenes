@@ -1,0 +1,64 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Fix you}
+  [by={Coldplay},cover={fix_you},album={XY}]
+  
+  \begin{verse*}
+    \musicnote {\Intro:} [C]  [Em]  [Am7]  [G] x2
+  \end{verse*}
+  
+  \begin{verse}
+    And the te\[C]ars come streaming \[Em]down your fac\[Am7]e,         \[G] 
+    When you l\[C]ose something you c\[Em]an't replace,\[Am7]           \[G] 
+    When you l\[C]ove someone but it\[Em] goes to waste\[Am7],          \[G] 
+    Could it be w\[C]orse?\[Em]      \[Am7]      \[G]          \[F] 
+  \end{verse}
+  
+  
+  \begin{chorus}
+    \[F]Lights w\[C]ill g\[G]uide you hom\[F]e,
+    \[F]And \[C]ign\[G]ite your bone\[F]s,
+    \[F]And I w\[C]ill \[G]try to fix you,
+  \end{chorus}
+  
+  \begin{verse*}
+    \musicnote {\Intro :}
+    C  Em  Am7  G x2
+  \end{verse*}
+
+  \begin{verse}
+    Hi\[C]gh up above or do\[Em]wn below,\[Am7]           \[G] 
+    When you're t\[C]oo in love to l\[Em]et it go,\[Am7]          \[G] 
+    But if you ne\[C]ver try you'll \[Em]never know\[Am7],        \[G] 
+    Just what you're w\[C]orth.\[Em]     \[Am7]      \[G]        \[F] 
+  \end{verse}
+  
+  \begin{chorus}
+    \[F]Lights w\[C]ill g\[G]uide you hom\[F]e,
+    \[F]And \[C]ign\[G]ite your bone\[F]s,
+    \[F]And I w\[C]ill \[G]try to fix you.
+  \end{chorus}
+  
+  \begin{verse*}
+    \musicnote {Instrumental}
+    C  F  C  G  x2
+  \end{verse*}
+
+  \begin{verse*}
+    \musicnote {\Bridge X2}
+    \[C]Tears stream,\[F] down your face,
+    \[C]When you lose something \[G]you cannot replace.
+    \[Am7]Tears stream,\[F] down your face and\[C] I .\[G]
+    \[C]Tears stream,\[F] down your face,
+    \musicnote {Hold}
+    \[C]I promise you I will \[G]learn from my mistakes.
+    \[Am7]Tears stream,\[F] down your face and\[C] I (\[G]hold).
+  \end{verse*}
+
+  \begin{chorus} 
+    \musicnote {single strumming}
+    \[F]Lights w\[C]ill g\[G]uide you hom\[F]e,
+    \[F]And \[C]ign\[G]ite your bone\[F]s,
+    \[F]And I w\[C]ill \[G]try to fix you. \[C]
+  \end{chorus}
+\endsong
