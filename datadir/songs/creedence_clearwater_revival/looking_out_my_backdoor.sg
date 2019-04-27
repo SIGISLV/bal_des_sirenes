@@ -6,7 +6,9 @@
   
   \begin{verse*}
 	\musicnote { Capo : 3rd fret}
-    \musicnote {\Intro :} [G] [Em] [C] [G] [D] [G]
+    \musicnote {\Intro :} 
+	(Stroke strums)
+	[G] [Em] [C] [G] [D] [G]
   \end{verse*}
   
   \begin{verse}
@@ -46,7 +48,8 @@
   \end{verse*}
   
   \begin{verse*}
-    \musicnote {Break}
+    \musicnote {Break solo}
+	(Stroke strums)
     [G] [F\shrp m] [F] [E]   [D]   [A] 
 	[A]   [F\shrp m]   [E]
   \end{verse*}
@@ -54,12 +57,14 @@
   \begin{verse}
     \[A]Forward troubles Illinois, \[F\shrp m]lock the front door, oh boy
 	\[D]Look at all the \[A]happy creatures \[E]dancing on the lawn
+	(Slow down)
 	\[A]Bother me tomorrow,\[F\shrp m] today I'll find no sorrow
 	\[D]Doo, doo, \[A]doo, lookin' \[E]out my back \[A]door
   \end{verse}
   
   \begin{verse*}
     \musicnote {\Outro :}
+	(Stroke strums)
 	[D] [A] [E] [A]
   \end{verse*}
   

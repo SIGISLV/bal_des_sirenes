@@ -1,4 +1,4 @@
-\selectlanguage{english}
+\selectlanguage{french}
 \songcolumns{2}
 \beginsong{Ca c'est vraiment toi}
   [by={Téléphone},cover={ca_cest_vraiment_toi},album={Dure Limite}]
@@ -44,6 +44,7 @@
   \end{chorus}
   
   \begin{verse*}
+  \musicnote {Solo}
 	[E] [D] [A] [B] X3
 	[F\shrp] [A] [B] X2
 	[F\shrp] [A] [B] [E] 
@@ -60,7 +61,7 @@
 	Tout tourne si rond      \[E]    \[D]   \[A]   \[B] 
   \end{verse}
 
-    \begin{verse*}
+  \begin{verse*}
   \musicnote {Pré-chorus}
     \[E]Des balles doum-doum
 	Aux roues des bagnoles

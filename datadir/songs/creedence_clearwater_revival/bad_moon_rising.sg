@@ -7,6 +7,11 @@
   \gtab{D}{XX0232}
   \gtab{A}{X02220}
   \gtab{G}{320003}
+  
+  \begin{verse*}
+  \musicnote {Intro :}
+    [D] [A] [G] [D]
+  \end{verse*}
 
   \begin{verse}
     \[D]I see a \[A]bad \[G]moon a \[D]rising
@@ -37,6 +42,11 @@
       \[A]There's a \[G]bad moon on the rise\[D]
     \end{chorus}
   \end{repeatedchords}
+  
+  \begin{verse*}
+  \musicnote {Solo}
+    [D] [A] [G] [D] \rep{4} 
+  \end{verse*}
 
   \begin{repeatedchords}
     \begin{verse}

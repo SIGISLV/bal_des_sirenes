@@ -1,50 +1,76 @@
 \selectlanguage{french}
 \songcolumns{2}
 \beginsong{Un autre monde}
-  [by={Téléphone},cover={un-autre-monde},album={Un autre monde}]
+  [by={Téléphone},cover={un_autre_monde},album={Un autre monde}]
 
   \cover
+  
+  \begin{verse*}
+  \musicnote {Intro}
+    \[D] \[Bm] \[F\shrp m] 
+	\[D] \[Bm] \[F\shrp m] 
+  \end{verse*}
 
   \begin{verse}
-    \[D] Je rê\[Bm]vais d'un autre \[F#]monde
-    \[D] Où la \[Bm]terre serait \[F#]ronde
-    \[D] Où la \[Bm]lune serait \[F#]blonde
-    \[D] Et la \[Bm]vie serait fé\[A]conde \[G]
+    \[D]   Je rê\[Bm]vais d'un autre \[F\shrp m]monde
+	\[D]   Où la \[Bm]terre serait \[F\shrp m]ronde
+	\[D]   Où la \[Bm]lune serait \[F\shrp m]blonde
+	\[D]   Et la \[Bm]vie serait féc\[A]onde  \[G] 
   \end{verse}
 
   \begin{chorus}
-    \[A]Je dormais à poings \[G]fermés
-    \[A]Je ne voyais plus en \[G]pieds
-    \[A]Je rêvais \[G]réalité
-    \[A]Ma réalité
+	Je dor\[A]mais à poings ferm\[G]és
+	Je ne \[A]voyais plus en p\[G]ieds
+	Je rêv\[A]ais réalit\[G]é
+	\[A]   Ma réalit\[D]é  \[Bm]    \[F\shrp m]   
+	\[D] \[Bm] \[F\shrp m]
   \end{chorus}
 
   \begin{verse}
-    Je rêvais d'une autre terre
-    Qui resterait un mystère
-    Une terre moins terre-à-terre
-    Oui je voulais tout foutre en l'air
+	\[D]   Je rêv\[Bm]ais d'une autre \[F\shrp m]terre
+	\[D]   Qui res\[Bm]terait un mys\[F\shrp m]tère
+	\[D]   Une t\[Bm]erre moins terre à \[F\shrp m]terre
+	\[D]   Oui je vou\[Bm]lais tout foutre en l'\[A]air \[G] 
   \end{verse}
 
   \begin{chorus}
-    Je marchais les yeux fermés
-    Je ne voyais plus mes pieds
-    Je rêvais réalité
-    Ma réalité m'a alité
+	Je \[A]marchais les yeux ferm\[G]és
+	Je ne \[A]voyais plus mes pi\[G]eds
+	Je \[A]rêvais réalit\[G]é
+	\[A]  Ma réalit\[G]é
+	\[A]   M'a alit\[D]é  \[Bm]    \[F\shrp m]   
+	\[D] \[Bm] \[F\shrp m] 
   \end{chorus}
+  
+  \begin{verse*}
+  \musicnote {Solo}
+    \[D] \[Bm] \[F\shrp m] 
+	\[D] \[Bm] \[F\shrp m] 
+  \end{verse*}
 
   \begin{verse}
-    Oui je rêvais de notre monde
-    Et la terre est bien ronde
-    Et la lune est si blonde
-    Ce soir dansent les ombres du monde
+   \[D]   Oui je rê\[Bm]vais de notre \[F\shrp m]monde
+	\[D]   Et la t\[Bm]erre est bien \[F\shrp m]ronde
+	\[D]   Et la \[Bm]lune est si b\[F\shrp m]londe
+	\[D]   Ce soir \[Bm]dansent les ombres du m\[A]onde  \[G] 
   \end{verse}
 
   \begin{chorus}
-    À la rêver immobile
-    Elle m'a trouvé bien futile
-    Mais quand bouger l'a fait tourner
-    Ma réalité m'a pardonné
+	A la rê\[A]ver immob\[G]ile
+	Elle m\[A]'a trouvé bien fut\[G]ile
+	Mais quand boug\[A]er l'a faite tourn\[G]er
+	Ma réalit\[A]é   m'a pardonn\[D]é  \[Bm]     \[F\shrp m]   
+	M'a pardonn\[D]é  \[Bm]    \[F\shrp m]   
+	Ma réalit\[D]é  \[Bm]   M'a pardon\[F\shrp m]né 
+	\[D] \[Bm] \[F\shrp m] 
   \end{chorus}
+  
+  \begin{verse*}
+  \musicnote {Outro}
+	Dansent les ombres du mo\[D]nde \[Bm]   
+	Dansent les ombres du\[F\shrp m] monde
+	Dansent les ombres du mo\[D]nde \[Bm]   
+	Dansent les ombres du\[F\shrp m] monde
+  \end{verse*}
 
 \endsong

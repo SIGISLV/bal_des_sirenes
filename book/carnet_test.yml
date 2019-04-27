@@ -49,10 +49,3 @@ template:
     picture: "img/QT_BrandNew.png"
     subtitle: "La playlist des Quick Tranfer pour le bal des Sirènes le 22 juin 2019"
     email: "lewisvillierme@gmail.com"
-    color:
-      songlink: FFFF00
-      hyperlink: 00FFFF
-    bgcolor:
-      note: D1F5AE
-      songnumber: AEFFE4
-      index: E4FFD1
