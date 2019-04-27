@@ -1,0 +1,99 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Hear you me}
+  [by={Jimmy Eat World},cover={hear_you_me},album={Bleed American}]
+  
+  \cover
+  \gtab{D}{X00232}
+  \gtab{Asus4}{X20230}
+  \gtab{Bm7add11}{X20230}
+  \gtab{G}{320033}
+  \gtab{Bm}{X24432}
+
+  \begin{verse*}
+  \musicnote {Intro}
+	[D]  [Asus4]  [Bm7add11]  [G]
+  \end{verse*}  
+  
+  \begin{verse} 
+	\[D]there's no one in town I know 
+	\[Asus4]you gave us some place to go 
+	\[Bm7add11]I never said thank you for that 
+	\[G]I thought I might get one more chance   
+  \end{verse}
+  
+  \begin{verse} 
+	\[D]what would you think of me now 
+	\[Asus4]so lucky, so strong, so proud? 
+	\[Bm7add11]I never said thank you for that 
+	\[G]now I'll never have a chance 
+  \end{verse}
+  
+  \begin{chorus}
+	\[D]may angels \[Asus4]lead you \[G]in 
+	\[D]hear you\[Asus4] me my fr\[G]iends 
+	\[D]on sleepless \[Asus4]roads the \[Bm7add11]sleepless \[G]go 
+	\[D]may angels \[Asus4]lead you \[G]in 
+  \end{chorus}
+  
+  \begin{verse*}
+  \musicnote {Interlude}
+	[D]  [Asus4]  [Bm7add11]  [G]
+  \end{verse*}  
+
+  \begin{verse}  
+	\[D]so what would you think of me now 
+	\[Asus4]so lucky, so strong, so proud? 
+	\[Bm7add11]I never said thank you for that 
+	\[G]now I'll never have a chance   
+  \end{verse}
+  
+  \begin{chorus}
+	\[D]may angels \[Asus4]lead you \[G]in 
+	\[D]hear you\[Asus4] me my fr\[G]iends 
+	\[D]on sleepless \[Asus4]roads the \[Bm7add11]sleepless \[G]go 
+	\[D]may angels \[Asus4]lead you \[G]in 
+  \end{chorus}
+  
+    \begin{verse*}
+  \musicnote {Bridge}
+	\[Bm](may angels lead you in) 
+	\[G]may angels lead you in 
+	\[Bm](may angels lead you in) 
+	\[G]may angels lead you in 
+  \end{verse*} 
+  
+      \begin{verse*}
+  \musicnote {Solo}
+	[D] [Asus4] [G] 
+	[D] [Asus4] [G] 
+	[D] [Asus4] [G] 
+	[D] [Asus4] [G] 
+  \end{verse*} 
+
+  \begin{verse}
+	\[D]and if you were with me tonight 
+	\[Asus4]I'd sing to you just one more time 
+	\[Bm7add11]a song for a heart so big 
+	\[G]God wouldn't let it live   
+  \end{verse}
+  
+  \begin{chorus}
+	\[D]may angels \[Asus4]lead you \[G]in 
+	\[D]hear you\[Asus4] me my fr\[G]iends 
+	\[D]on sleepless \[Asus4]roads the \[Bm7add11]sleepless \[G]go 
+	\[D]may angels \[Asus4]lead you \[G]in 
+
+	\[D]may angels \[Asus4]lead you \[G]in 
+	\[D]hear you\[Asus4] me my fr\[G]iends 
+	\[D]on sleepless \[Asus4]roads the \[Bm7add11]sleepless \[G]go  
+	\[D]may angels \[Asus4]lead you \[G]in 
+
+	(\[D]on sleepless \[Asus4]roads the \[Bm7add11]sleepless \[G]go)
+	\[D]may angels \[Asus4]lead you \[G]in 
+  \end{chorus}
+  
+
+\endsong
+
+

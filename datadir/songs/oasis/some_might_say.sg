@@ -1,0 +1,71 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Some might say}
+  [by={Oasis},cover={some_might_say},album={(What's the Story) Morning Glory?}]
+  
+  \cover
+  
+  \begin{verse*}
+    \musicnote {\Intro :}
+	[D5]     [Bsus2]    [G]  [D]  [A]
+    [D] [Bm] [G] [D] [A]
+  \end{verse*}
+    
+  \begin{verse}
+    \[D]Some might say That sunshine follows th\[Bm]under
+	Go and t\[G]ell it to the \[D]man who cannot s\[A]hine
+	\[D]Some might say That we should never \[Bm]ponder
+	On our th\[G]oughts today cause th\[D]ey hold sway over \[A]time
+  \end{verse}
+  
+  \begin{verse*}
+	\musicnote {Pre-Chorus :}
+	Some might s\[Em]ay we will fi\[G]nd a brighter d\[D]ay,
+	Some might s\[Em]ay we will \[Cadd9]find a brighter d\[G]ay. Yeah-ah!
+  \end{verse*}
+	
+  \begin{chorus}
+	Coz I've been s\[D]tanding at the s\[G]tation,                
+	in n\[Em]eed of ed\[G]ucation in the r\[D]ain.   \[G]  \[Em]   \[G] 
+	You m\[D]ade no prepa\[G]ration \[Em]for my re\[G]putation once ag\[D]ain. \[G]  \[Em]   \[G]  
+	The s\[D]ink is full of f\[G]ishes, s\[Em]he got dirty di\[G]shes on the \[D]brain\[G]. \[Em]   \[G]     
+	It was ov\[D]erflowing g\[G]ently, but i\[Em]ts all elem\[G]entary my fr\[D]iend\[G]. \[Em]   \[G] 
+  \end{chorus}
+
+  \begin{verse*}
+    \musicnote {Interlude}
+	[F\shrp m] [F] [Cadd9] [A] 
+	[D] [Bm] [G] [D] [A] 
+  \end{verse*}
+
+  \begin{verse}
+    \[D]Some might say They don't believe in h\[Bm]eaven
+	Go and t\[G]ell to the m\[D]an who lives in \[A]hell
+	\[D]Some might say You get what you've been g\[Bm]iven
+	If you d\[G]on't get yours I w\[D]on't get mine as w\[A]ell
+  \end{verse}
+  
+  \begin{verse*}
+	\musicnote {Pre-Chorus :}
+	Some might s\[Em]ay we will fi\[G]nd a brighter d\[D]ay,
+	Some might s\[Em]ay we will \[Cadd9]find a brighter d\[G]ay. Yeah-ah!
+  \end{verse*}
+  
+  \begin{chorus}
+   Coz I've been s\[D]tanding at the s\[G]tation,                
+	in n\[Em]eed of ed\[G]ucation in the r\[D]ain.   \[G]  \[Em]   \[G] 
+	You m\[D]ade no prepa\[G]ration \[Em]for my re\[G]putation once ag\[D]ain. \[G]  \[Em]   \[G]  
+	The s\[D]ink is full of f\[G]ishes, s\[Em]he got dirty di\[G]shes on the \[D]brain\[G]. \[Em]   \[G]     
+	\[D]Ah my dogs been i\[G]tching I\[Em]tching in the k\[G]itchen once ag\[D]ain \[G]  \[Em]   \[G]
+  \end{chorus}
+  
+  \begin{verse*}
+    \musicnote {\Outro :}
+	\musicnote {repeat x2}
+	\[G]Some might s\[D]ay (s\[G]ome might \[Em]say)
+	\musicnote {repeat x8}
+	\[Em]You know what s\[G]ome might s\[D]ay (you know w\[G]hat some might \[Em]say)
+	\[Em]Woo!           \[G]           \[D]              \[G]               \[Em]  
+  \end{verse*}
+  
+\endsong

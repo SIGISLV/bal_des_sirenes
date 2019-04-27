@@ -1,0 +1,67 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Il suffira d'un signe}
+  [by={Jean-Jacques Goldman},cover={il_suffira_dun_signe},album={Jean-Jacques Goldman}]
+  
+  \cover
+  \gtab{Bm}{7:xxx111}
+  \gtab{D} {5:xxx133}
+  \gtab{F\shrp}{9:xxx321}
+  \gtab{F}{7:xxx331}
+  
+  \begin{verse*}
+  \musicnote {Intro} 
+  \end{verse*}
+  
+  \begin{verse}
+  \end{verse}
+
+  \begin{verse*}
+  \musicnote {Pre-chorus}   
+  \end{verse*}
+
+  \begin{chorus}
+  \musicnote {Pre-chorus}
+  \end{chorus}
+
+  \begin{verse}
+  \end{verse}
+
+  \begin{verse*}
+  \musicnote {Interlude}
+  \end{verse*}
+
+  \begin{verse*}
+  \musicnote {Break}
+  \end{verse*}
+  
+  \begin{verse}
+  \end{verse}
+  
+  \begin{verse*}
+  \musicnote {Pre-chorus}    
+  \end{verse*}
+
+  \begin{chorus}
+  \end{chorus}
+
+  \begin{verse*}
+  \musicnote {Interlude X2}
+  \end{verse*}
+
+  \begin{verse*}
+  \musicnote {Break X4} 
+  \end{verse*}
+  
+  \begin{verse*}
+  \musicnote {Pre-chorus}    
+  \end{verse*}
+
+  \begin{chorus}
+  \end{chorus}
+
+  \begin{verse*}
+  \musicnote {Outro}
+  \end{verse*}
+  
+\endsong

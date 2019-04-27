@@ -1,0 +1,45 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{title of song}
+  [by={auteur},cover={name_jacket},album={name_album}]
+  
+  \cover
+
+  \begin{verse*}
+  \musicnote {Intro}
+  \end{verse*}  
+
+  \begin{chorus}
+  \end{chorus}
+  
+  \begin{verse}   
+  \end{verse}
+  
+  \begin{chorus}
+  \end{chorus}
+
+  \begin{verse}   
+  \end{verse}
+  
+  \begin{chorus}
+  \end{chorus}
+  
+  \begin{chorus}
+  \end{chorus}
+
+  \begin{verse}   
+  \end{verse}
+  
+  \begin{chorus}
+  \end{chorus}
+
+  \begin{verse}   
+  \end{verse}
+  
+  \begin{chorus}
+  \end{chorus}
+  
+
+\endsong
+
+

@@ -1,0 +1,67 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Johnny B Goode}
+  [by={Chuck Berry},cover={johnny_b_goode},album={Johnny B. Goode}]
+  
+  \cover
+  
+  \begin{verse*}
+  \musicnote {Intro} 
+	[Bb] [Bb] [Eb] [Bb] [F] [Eb] [Bb] 
+	[Bb] [Bb] [Bb] [Eb] [Bb] [F] [Eb] [Bb]  
+  \end{verse*}
+  
+  \begin{verse}
+	Deep \[Bb]down Louisiana close to New Orleans
+	Way \[Bb]back up in the woods among the evergreens
+	There \[Eb]stood a log cabin made of earth and wood
+	Where \[Bb]lived a country boy named Johnny B. Goode
+	Who \[F]never ever learned to read or \[Eb]write so well
+	But he could \[Bb]play the guitar just like a ringing a bell
+  \end{verse}
+  
+  \begin{chorus}
+	Go, \[Bb]Go
+	\[Bb]Go Johnny go, go
+	\[Bb]Go Johnny go, \[Eb]go
+	Go Johnny go, \[Bb]go
+	Go Johnny go, \[F]go \[Eb]  
+	Johnny B. \[Bb]Goode
+  \end{chorus}
+  
+  \begin{verse}
+	He used to c\[Bb]arry his guitar in a gunny sack    
+	And sit beneath the trees by the railroad track
+	The \[Eb]engineers would see him sittin' in the shade
+	\[Bb]Strummin' to the rhythm that the driver made
+	When p\[F]eople passed him by they would stop and say
+	Oh \[Bb]my that little country boy sure can play
+  \end{verse}
+  
+  \begin{chorus}
+	Go, \[Bb]Go
+	\[Bb]Go Johnny go, go
+	\[Bb]Go Johnny go, \[Eb]go
+	Go Johnny go, \[Bb]go
+	Go Johnny go, \[F]go \[Eb]  
+	Johnny B. \[Bb]Goode
+  \end{chorus}
+  
+  \begin{verse*}
+  \musicnote{Solo}
+    [Bb] [Bb] [Eb] [Bb] [F] [Eb] [Bb] 
+	[Bb] [Bb] [Bb] [Eb] [Bb] [F] [Eb] [Bb]  
+  \end{verse*}
+
+  \begin{chorus}
+	Go, \[Bb]Go
+	\[Bb]Go Johnny go, go
+	\[Bb]Go Johnny go, \[Eb]go
+	Go Johnny go, \[Bb]go
+	Go Johnny go, \[F]go \[Eb]  
+	Johnny B. \[Bb]Goode
+  \end{chorus}
+  
+\endsong
+
+

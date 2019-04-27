@@ -1,0 +1,111 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Get lucky}
+  [by={Daft Punk},cover={get_lucky},album={Random Acess Memory}]
+  
+  \cover
+  \gtab{Bm}{7:XXX111}
+  \gtab{D} {5:XXX133}
+  \gtab{F\shrp}{9:XXX321}
+  \gtab{F}{7:XXX331}
+  
+  \begin{verse*}
+  \musicnote {Intro} 
+	[Bm] [D] [F\shrp m] [E] 
+	[Bm] [D] [F\shrp m] [E]
+  \end{verse*}
+  
+  \begin{verse}
+	Like the legend of the \[Bm]phoenix    \[D] 
+	All ends were be\[F\shrp m]ginnings    \[E] 
+	What keeps the planet \[Bm]spinning    \[D] 
+	The force from the be\[F\shrp m]ginning      \[E] 
+  \end{verse}
+
+  \begin{verse*}
+  \musicnote {Pre-chorus}   
+	\[Bm]We've come too \[D]far to give \[F\shrp m]up who we \[E]are
+	So \[Bm]let's raise the \[D]bar and our \[F\shrp m]cups to the \[E]stars  
+  \end{verse*}
+
+  \begin{chorus}
+  \musicnote {Pre-chorus}
+	\[Bm]She's up all night 'til the sun
+	\[D]I'm up all night to get some
+	\[F\shrp m]She's up all night for good fun
+	\[E]I'm up all night to get lucky
+  \end{chorus}
+
+  \begin{verse}
+	\[Bm]We're up all night 'til the sun
+	\[D]We're up all night to get some
+	\[F\shrp m]We're up all night for good fun
+	\[E]We're up all night to get lucky
+  \end{verse}
+
+  \begin{verse*}
+  \musicnote {Interlude}
+	\[Bm]We're up all night to get lucky
+	\[D]We're up all night to get lucky
+	\[F\shrp m]We're up all night to get lucky
+	\[E]We're up all night to get lucky
+  \end{verse*}
+
+  \begin{verse*}
+  \musicnote {Break}
+	[Bm] [D] [F\shrp m] [E]  
+  \end{verse*}
+  
+  \begin{verse}
+	The present has no \[Bm]rhythm    \[D] 
+	Your gift keeps on \[F\shrp m]giving    \[E] 
+	What is this I'm \[Bm]feeling?    \[D] 
+	If you want to leave I'm \[F\shrp m]with it    \[E] 
+  \end{verse}
+  
+  \begin{verse*}
+  \musicnote {Pre-chorus}   
+	\[Bm]We've come too \[D]far to give \[F\shrp m]up who we \[E]are
+	So \[Bm]let's raise the \[D]bar and our \[F\shrp m]cups to the \[E]stars  
+  \end{verse*}
+
+  \begin{chorus}
+	\[Bm]She's up all night 'til the sun
+	\[D]I'm up all night to get some
+	\[F\shrp m]She's up all night for good fun
+	\[E]I'm up all night to get lucky
+  \end{chorus}
+
+  \begin{verse*}
+  \musicnote {Interlude X2}
+	\[Bm]We're up all night to get lucky
+	\[D]We're up all night to get lucky
+	\[F\shrp m]We're up all night to get lucky
+	\[E]We're up all night to get lucky
+  \end{verse*}
+
+  \begin{verse*}
+  \musicnote {Break X4}
+	[Bm] [D] [F\shrp m] [E]  
+  \end{verse*}
+  
+  \begin{verse*}
+  \musicnote {Pre-chorus}   
+	\[Bm]We've come too \[D]far to give \[F\shrp m]up who we \[E]are
+	So \[Bm]let's raise the \[D]bar and our \[F\shrp m]cups to the \[E]stars  
+  \end{verse*}
+
+  \begin{chorus}
+	\[Bm]She's up all night 'til the sun
+	\[D]I'm up all night to get some
+	\[F\shrp m]She's up all night for good fun
+	\[E]I'm up all night to get lucky
+  \end{chorus}
+
+  \begin{verse*}
+  \musicnote {Outro}
+	[Bm] [D] [F\shrp m] [E] 
+	[Bm] [D] [F\shrp m] [E]
+  \end{verse*}
+  
+\endsong

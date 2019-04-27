@@ -18,13 +18,27 @@ chords:
   notation: alphascale
 
 content:
-  - "ed_sheeran/*.sg"
-  - "queen/*.sg"
+  - "ed_sheeran/Thinking_out_loud.sg"
+  - "queen/we_will_rock_you.sg"
   - "creedence_clearwater_revival/bad_moon_rising.sg"
   - "elvis_presley/blue_sued_shoe.sg"
   - "creedence_clearwater_revival/looking_out_my_backdoor.sg"
+  - "oasis/some_might_say.sg"
+  - "daft_punk/get_lucky.sg"
+  - "creedence_clearwater_revival/proud_mary.sg"
+  - "jean_jacques_goldman/il_suffira_dun_signe.sg"
+  - "jean_jacques_goldman/quand_la_musique_est_bonne.sg"
+  - "jimmy_eat_world/hear_you_me.sg"
   - "coldplay/fix_you.sg"
-  - "telephone/*.sg"
+  - "telephone/ca_cest_vraiment_toi.sg"
+  - "elvis_presley/burning_love.sg"
+  - "telephone/un_autre_monde.sg"
+  - "queen/crazy_little_thing_called_love.sg"
+  - "black_keys/lonely_boy.sg"
+  - "chuck_berry/johnny_b_goode.sg"
+  - "elvis_presley/jailhouse_rock.sg"
+  - "bill_haley_and_his_comets/rock_around_the_clock.sg"
+  - "eric_clapton/sweet_home_chicago.sg"
 
 
 template:
