@@ -1,0 +1,75 @@
+\selectlanguage{english}
+\songcolumns{2}
+\beginsong{Quand la musique est bonne}
+  [by={Jean Jacques Goldman},cover={quand_la_musique_est_bonne},album={Jean Jacques Goldman}]
+  
+  \cover
+
+  
+  \begin{verse*}
+  \musicnote {Intro} 
+	[C]  [Dm]    [C]  [Bb]     [C] \rep{2}
+	[A]        [C]
+  \end{verse*}
+
+  \begin{verse}
+    \[Dm]J'ai trop saigne\[C]  \[Dm]  sur les Gibson\[C] 
+	\[Dm]J'ai trop rode \[C]dans les\[Bb]  Tobacco road\[C] 
+	\[Dm]Y'a plus que les caisses\[C]  \[Dm]  qui me resonnent\[C] 
+	\[Bb]Et quand j'me casse           \[C] 
+	je voyage toujours en fraude
+  \end{verse}
+
+  \begin{verse}
+    \[Dm]Des champs de coton\[C]  \[Dm]  dans ma memoire\[C] 
+	\[Dm]Trois notes de blues \[C]c'est un\[Bb] peu d'amour noir\[C] 
+	\[Dm]Quand j'suis trop court\[C]  \[Dm]                        \[C] 
+	quand j'suis trop tard
+	\[Dm]C'est un recours \[C]pour une \[Dm]autre histoire
+  \end{verse}
+  
+  \begin{chorus}
+	\[Gm]Qua\[Dm7]nd la musique est bonne
+	\echo{bonne} \rep{3} 
+	\[Cm7]Quand la \[F]musique donne\[Gm]   \[Dm7]
+    \echo{donne} \rep{3} 	
+	\[Cm7]Quand la \[F]musique sonne\[Gm]   \[Dm7]       \[Cm7]   
+	\echo{sonne} \rep{3} 
+	\[Dm7]Quand elle ne \[Eb]triche pas
+	\echo{Quand elle ne triche pas}
+	\[Gm]Quand la \[D7]musique est bonne
+	\echo{bonne} \rep{3} 
+	\[Cm7]Quand la \[F]musique donne\[Gm]   \[Dm7]
+    \echo{donne} \rep{3}	
+	\[Cm7]Quand la \[F]musique sonne\[Gm]   \[Dm7]       \[Cm7]  	
+	\echo{sonne} \rep{3}
+	\[Dm7]Quand elle gui\[Eb]de \[Gm]mes\[D7] pa\[C]s
+	\echo{Quand elle guide mes pas}
+  \end{chorus}
+
+  \begin{verse}
+	\[Dm]J'ai plus d'amou\[C]r \[Dm]                   \[C] 
+	j'ai pas le temps
+	\[Dm]J'ai plus d'humour  \[C]       \[Bb]                       \[C] 
+	j'sais plus d'ou vient le vent
+	\[Dm]J'ai plus qu'un clou\[C]  \[Dm]               \[C] 
+	une etincelle
+	\[Bb]Des trucs en plomb qui me bris\[C]ent les ailes 
+  \end{verse}
+  
+   \begin{verse}
+	\[Dm]Un peu de swing\[C]  \[Dm]                \[C] 
+	un peu du King
+	\[Dm]Pas mal de feeling \[C]et de \[Bb]decibels\[C] 
+	\[Dm]C'est pas l'usine\[C]  \[Dm]                   \[C] 
+	c'est pas la mine
+	\[Dm]Mais ca suffit \[C]pour se \[Dm]faire la belle
+  \end{verse}
+
+  \musicnote {Chorus} 
+    
+  \musicnote {Solo} 
+  
+  \musicnote {Chorus} 
+  
+\endsong

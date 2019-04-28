@@ -1,0 +1,8 @@
+\selectlanguage{french}
+\songcolumns{1}
+\beginsong{Quand la musique est bonne}
+  [by={Jean Jacques Goldman},cover={quand_la_musique_est_bonne},album={Jean Jacques Goldman}]
+  
+  \lilypond{solo_qlmeb}
+  
+\endsong

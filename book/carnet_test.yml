@@ -12,7 +12,7 @@ chords:
   diagramreminder: all
   diagrampage : none
   repeatchords: yes
-  lilypond: no
+  lilypond: yes
   instrument: guitar
   tablatures: no
   notation: alphascale
