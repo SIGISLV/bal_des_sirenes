@@ -4,7 +4,6 @@
   [by={Jean Jacques Goldman},cover={quand_la_musique_est_bonne},album={Jean Jacques Goldman}]
   
   \cover
-
   
   \begin{verse*}
   \musicnote {Intro} 
@@ -68,7 +67,8 @@
 
   \musicnote {Chorus} 
     
-  \musicnote {Solo} 
+  \musicnote {Solo}
+  \lilypond{solo_qlmeb}
   
   \musicnote {Chorus} 
   

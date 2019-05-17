@@ -1,15 +1,15 @@
-\include "../_lilypond/header"
 \language "english"
 #(define (tie::tab-clear-tied-fret-numbers grob)
    (let* ((tied-fret-nr (ly:spanner-bound grob RIGHT)))
       (ly:grob-set-property! tied-fret-nr 'transparent #t)))
 
+\version "2.14.0"
 \paper {
-  paper-height = 4\cm
-  paper-width= 8\cm
-  line-width= 8\cm
+   indent = #0
+   print-all-headers = ##t
+   ragged-right = ##f
+   ragged-bottom = ##t
 }
-
 \layout {
    \context { \Score
       \override MetronomeMark #'padding = #'5
