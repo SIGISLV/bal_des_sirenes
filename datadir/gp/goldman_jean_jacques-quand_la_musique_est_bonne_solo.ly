@@ -1,14 +1,13 @@
+\include "../_lilypond/header"
 \language "english"
 #(define (tie::tab-clear-tied-fret-numbers grob)
    (let* ((tied-fret-nr (ly:spanner-bound grob RIGHT)))
       (ly:grob-set-property! tied-fret-nr 'transparent #t)))
 
-\version "2.14.0"
 \paper {
-   indent = #0
-   print-all-headers = ##t
-   ragged-right = ##f
-   ragged-bottom = ##t
+  paper-height = 4\cm
+  paper-width= 8\cm
+  line-width= 8\cm
 }
 \layout {
    \context { \Score
@@ -33,20 +32,22 @@
 }
 TrackAVoiceAMusic = #(define-music-function (parser location inTab) (boolean?)
 #{
-   % \tempo 4=132
+   \tempo 4=132
    \clef #(if $inTab "tab" "treble_8")
    \key c \major
    \time 4/4
    \oneVoice
-   <b~\2>2 <b\2>8 <as'\2>8 <gs'\2>8 <fs'\3>16 <ds'~\3>16 
-   <ds'\3>8 r8 r4 r16 <as\4>16 <cs'\4>8 <cs'\4>8 <cs'\4>16 <ds'~\3>16 
-   <ds'\3>4 r4 r8 <as'\2>8  \ottava #1 <cs''\1>8 \ottava #0  \ottava #1 <ds''\1>8 \ottava #0 
-   \grace <f'\1>64  \ottava #1 <ds''\1>4 \ottava #0 r4 r8 \grace <c'\2>64 <as'\2>8 <gs'\3>8 <fs'\3>16 <gs'~\2>16 
-   <gs'\2>16 <fs'\3>8. r4 r8  \ottava #1 <ds''\1>8 \ottava #0 \grace <as'\1>64  \ottava #1 <gs''\1>8 \ottava #0 \grace <as'\1>64  \ottava #1 <gs''\1>8 \ottava #0 
-    \ottava #1 <fs''\1>4. \ottava #0 r8  \ottava #1 <ds''~\1>8 \ottava #0  \ottava #1 <ds''\1>16 \ottava #0 r4 r16 
-    \ottava #1 <ds''\1>4 \ottava #0 r4 r8 <as\4>16 <as\4>16 <cs'\4>16 <ds'\3>16 <fs'\3>8 
-   <ds'\3>2 r8 <a'\2>16 <gs'\2>16 <a'\2>16 <gs'\2>16 <fs'\3>8 
-   <as'\2>1 
+    \ottava #1 <d''~\2>1 \ottava #0 
+    \ottava #1 <d''~\2>2 \ottava #0  \ottava #1 <d''\2>8 \ottava #0  \ottava #1 <d''\2>8 \ottava #0 <c''\2>8 <ais'\3>16 <g'~\3>16 
+   <g'\3>8 r8 r4 r16 <d'\4>16 <f'\4>8 <f'\4>8 <f'\4>16 <g'~\3>16 
+   <g'\3>4 r4 r8  \ottava #1 <d''\2>8 \ottava #0  \ottava #1 <f''\1>8 \ottava #0  \ottava #1 <g''\1>8 \ottava #0 
+   \grace <f'\1>64  \ottava #1 <g''\1>4 \ottava #0 r4 r8 \grace <c'\2>64  \ottava #1 <d''\2>8 \ottava #0 <c''\3>8 <ais'\3>16 <c''~\2>16 
+   <c''\2>16 <ais'\3>8. r4 r8  \ottava #1 <g''\1>8 \ottava #0 \grace <ais'\1>64  \ottava #1 <c'''\1>8 \ottava #0 \grace <ais'\1>64  \ottava #1 <c'''\1>8 \ottava #0 
+    \ottava #1 <ais''\1>4. \ottava #0 r8  \ottava #1 <g''~\1>8 \ottava #0  \ottava #1 <g''\1>16 \ottava #0 r4 r16 
+    \ottava #1 <g''\1>4 \ottava #0 r4 r8 <d'\4>16 <d'\4>16 <f'\4>16 <g'\3>16 <ais'\3>8 
+   <g'\3>2 r8  \ottava #1 <cis''\2>16 \ottava #0 <c''\2>16  \ottava #1 <cis''\2>16 \ottava #0 <c''\2>16 <ais'\3>8 
+    \ottava #1 <d''~\2>1 \ottava #0 
+    \ottava #1 <d''\2>1 \ottava #0 
    \bar "|."
    \pageBreak
 #})
@@ -61,9 +62,9 @@ TrackALyrics = \lyricmode {
 TrackAStaff = \new Staff <<
    \context Voice = "TrackAVoiceAMusic" {
       \removeWithTag #'texts
-      \TrackAVoiceAMusic  ##f
+      \TrackAVoiceAMusic ##f
    }
-    \context Voice = "TrackAVoiceBMusic" {
+   \context Voice = "TrackAVoiceBMusic" {
       \removeWithTag #'texts
       \TrackAVoiceBMusic ##f
    }
@@ -72,7 +73,7 @@ TrackATabStaff = \new TabStaff \with { stringTunings = #`( ,(ly:make-pitch 0 2 N
    \context TabVoice = "TrackAVoiceAMusic" {
       \removeWithTag #'chords
       \removeWithTag #'texts
-      \TrackAVoiceAMusic  ##t
+      \TrackAVoiceAMusic ##t
    }
    \context TabVoice = "TrackAVoiceBMusic" {
       \removeWithTag #'chords
@@ -81,13 +82,14 @@ TrackATabStaff = \new TabStaff \with { stringTunings = #`( ,(ly:make-pitch 0 2 N
    }
 >>
 TrackAStaffGroup = \new StaffGroup <<
-   % \TrackAStaff
+   \TrackAStaff
    \TrackATabStaff
 >>
 \score {
    \TrackAStaffGroup
-   % \header {
-   %   title = "Quand la Musique Est Bonne" 
-   %   composer = "Jean-Jacques Goldman" 
-   % }
+   \header {
+      title = "Quand la Musique Est Bonne" 
+      composer = "Jean-Jacques Goldman" 
+      instrument = "Voix Lead" 
+   }
 }
