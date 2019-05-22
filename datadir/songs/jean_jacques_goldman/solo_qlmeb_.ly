@@ -1,15 +1,15 @@
 \include "../_lilypond/header"
+\language "english"
 #(define (tie::tab-clear-tied-fret-numbers grob)
    (let* ((tied-fret-nr (ly:spanner-bound grob RIGHT)))
       (ly:grob-set-property! tied-fret-nr 'transparent #t)))
 
 \version "2.14.0"
 \paper {
-  paper-height = 10\cm
+  paper-height = 4\cm
   paper-width= 8\cm
   line-width= 8\cm
 }
-
 \layout {
    \context { \Score
       \override MetronomeMark #'padding = #'5
@@ -31,10 +31,9 @@
       \consists "Instrument_name_engraver"
    }
 }
-
 TrackAVoiceAMusic = #(define-music-function (parser location inTab) (boolean?)
 #{
-   % \tempo 4=132
+   \tempo 4=132
    \clef #(if $inTab "tab" "treble_8")
    \key c \major
    \time 4/4
@@ -63,20 +62,24 @@ TrackALyrics = \lyricmode {
 }
 TrackAStaff = \new Staff <<
    \context Voice = "TrackAVoiceAMusic" {
+      \removeWithTag #'chords
       \removeWithTag #'texts
       \TrackAVoiceAMusic ##f
    }
    \context Voice = "TrackAVoiceBMusic" {
+      \removeWithTag #'chords
       \removeWithTag #'texts
       \TrackAVoiceBMusic ##f
    }
 >>
 TrackATabStaff = \new TabStaff \with { stringTunings = #`( ,(ly:make-pitch 0 2 NATURAL) ,(ly:make-pitch -1 6 NATURAL) ,(ly:make-pitch -1 4 NATURAL) ,(ly:make-pitch -1 1 NATURAL) ,(ly:make-pitch -2 5 NATURAL) ,(ly:make-pitch -2 2 NATURAL) ) } <<
    \context TabVoice = "TrackAVoiceAMusic" {
+      \removeWithTag #'chords
       \removeWithTag #'texts
       \TrackAVoiceAMusic ##t
    }
    \context TabVoice = "TrackAVoiceBMusic" {
+      \removeWithTag #'chords
       \removeWithTag #'texts
       \TrackAVoiceBMusic ##t
    }
@@ -87,8 +90,8 @@ TrackAStaffGroup = \new StaffGroup <<
 >>
 \score {
    \TrackAStaffGroup
-   %\header {
-    %  title = "Quand la Musique Est Bonne" 
-    %  composer = "Jean-Jacques Goldman" 
-   %}
+   \header {
+      title = "Quand la Musique Est Bonne" 
+      composer = "Jean-Jacques Goldman" 
+   }
 }
