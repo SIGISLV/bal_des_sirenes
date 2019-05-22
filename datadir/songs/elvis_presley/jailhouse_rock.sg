@@ -4,6 +4,8 @@
   [by={Elvis Presley},cover={jailhouse_rock},album={Jailhouse rock}]
   
   \cover
+  \musicnote {Licks}
+  \lilypond{jailhouse_rock_lick}
   
   \begin{verse}
 	\[Eb]The \[E]warden threw a party in the county jail \[Eb]    \[E] 
@@ -46,6 +48,9 @@
 	Every\[B7]body in the whole cell \[A7]block
 	Was a-\[E]dancin' to the \[A7]Jail-house \[E]Rock!
   \end{chorus}
+  
+  \musicnote {Solo}
+  \lilypond{jailhouse_rock_solo}
 
   \begin{verse}
 	\[Eb]The \[E]sad sack was a-sittin' on a block of sto\[Eb]ne  \[E] 
