@@ -18,7 +18,31 @@ chords:
   notation: alphascale
 
 content:
-  sort:
+  - section : "Rockabily"
+  - "queen/crazy_little_thing_called_love.sg"
+  - "elvis_presley/blue_sued_shoe.sg"
+  - "elvis_presley/burning_love.sg"
+  - "elvis_presley/jailhouse_rock.sg"
+  - "bill_haley_and_his_comets/rock_around_the_clock.sg"
+  - "chuck_berry/johnny_b_goode.sg"
+  - section : "Slow dance + Line dance"
+  - "jimmy_eat_world/hear_you_me.sg" 
+  - "ed_sheeran/Thinking_out_loud.sg" 
+  - "coldplay/fix_you.sg"
+  - "creedence_clearwater_revival/proud_mary.sg"
+  - "creedence_clearwater_revival/bad_moon_rising.sg"
+  - "creedence_clearwater_revival/looking_out_my_backdoor.sg"
+  - section : "Mélange qui va" 
+  - "queen/we_will_rock_you.sg"
+  - "oasis/some_might_say.sg"
+  - "black_keys/lonely_boy.sg"
+  - "daft_punk/get_lucky.sg"
+  - "eric_clapton/sweet_home_chicago.sg"
+  - section : "Rock français"
+  - "jean_jacques_goldman/il_suffira_dun_signe.sg"
+  - "telephone/un_autre_monde.sg"
+  - "jean_jacques_goldman/quand_la_musique_est_bonne.sg"
+  - "telephone/ca_cest_vraiment_toi.sg"
 
 
 template:
