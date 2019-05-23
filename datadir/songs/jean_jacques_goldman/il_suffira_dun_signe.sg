@@ -4,7 +4,7 @@
   [by={Jean Jacques Goldman},cover={il_suffira_dun_signe},album={Jean Jacques Goldman}]
   
   \cover
-  \gtab{C5}{335XXX}
+  \gtab{C5}{355XXX}
   \gtab{C7}{8:133XXX}
   \gtab{G\shrp 5}{4:133XXX}
   \gtab{A\shrp 5}{6:133XXX}
@@ -34,11 +34,12 @@
     \[C7]Regarde ma vie 
 	tu \[F5]la vois face à  face. \[C7] 
 	\[C7]Dis-moi ton avis 
-	que veux-tu qu\[G\shrp 5]e j'y fasse?   \[A\shrp 5]  
+	que veux-tu qu\[G\shrp 5]e j'y fasse? \[A\shrp 5]
 	\[C7]Nous n'avons plus que ça au bout de notre imp\[F5]asse. 
 	\[C7]Le mome\[G\shrp 5]nt viendra        
-	tout cha\[A\shrp 5]ngera de place.
+	tout cha\[A\shrp 5]ngera de place. \echo{licks}
   \end{chorus}
+   \lilypond{il_suffira_dun_signe_lick}
 
   \begin{verse}
 	Il suffira d'un \[C5]signe, un matin
