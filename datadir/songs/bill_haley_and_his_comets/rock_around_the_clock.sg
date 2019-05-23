@@ -4,6 +4,11 @@
   [by={ Bill Haley and His Comets},cover={rock_around_the_clock},album={41 Original Hits from the Soundtrack of American Graffiti}]
   
   \cover
+  \gtab{A}{4:133211}
+  \gtab{C}{8:XXX121}
+  \gtab{Em}{8:XXX111}
+  \gtab{Am}{4:XXX111}
+  \gtab{Bm}{6:XXX111}
   
   \begin{verse}
 	\[A]One, two, three o'clock, four o'clock, rock
@@ -59,6 +64,7 @@
 	we're gonna rock, \[A]rock, rock, 'til broad daylight.
 	We're gonna \[E7]rock, gonna rock, a\[D7]round the clock to\[A]night.  
   \end{verse}
+  \lilypond {rock_around_clock_end_lick}
  
 \endsong
 

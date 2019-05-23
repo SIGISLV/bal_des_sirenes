@@ -44,7 +44,6 @@ content:
   - "jean_jacques_goldman/quand_la_musique_est_bonne.sg"
   - "telephone/ca_cest_vraiment_toi.sg"
 
-
 template:
   default.tex:
     title: "Bal des Sirènes"
