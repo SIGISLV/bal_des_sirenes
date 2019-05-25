@@ -24,8 +24,6 @@
    \[D]Rollin', rollin', rollin' on the river
   \end{verse}
 
-  \musicnote {\break: \nolyrics \[C A C A C A G F G D}
-
   \begin{verse}
   Cleaned a lot of plates in Memphis
   Pumped a lot of tane down in New Orleans
@@ -37,6 +35,7 @@
   \end{verse}
 
   \musicnote {\break: \nolyrics \[C A C A C A G F G D}
+  \musicnote {Solo} [D][A][Bm][D]
 
   \begin{verse}
   If you come down to the river

@@ -42,18 +42,26 @@
   
   \begin{verse*}
     \musicnote {Instrumental}
-    C  F  C  G  x2
+    C  F  C  G  \rep{2}
   \end{verse*}
 
   \begin{verse*}
-    \musicnote {\Bridge X2}
     \[C]Tears stream,\[F] down your face,
     \[C]When you lose something \[G]you cannot replace.
-    \[Am7]Tears stream,\[F] down your face and\[C] I .\[G]
+    \[Am7]Tears stream,\[F] down your face 
+    and\[C] I .\[G]
+    \[C]Tears stream,\[F] down your face,
+    \[C]I promise you I will \[G]learn from my mistakes.
+    \[Am7]Tears stream,\[F] down your face 
+    and\[C] I \[G].
+  \end{verse*}
+
+  \begin{verse*}
     \[C]Tears stream,\[F] down your face,
     \musicnote {Hold sur la deuxième reprise}
     \[C]I promise you I will \[G]learn from my mistakes.
-    \[Am7]Tears stream,\[F] down your face and\[C] I \[G].
+    \[Am7]Tears stream,\[F] down your face 
+    and\[C] I \[G].
   \end{verse*}
 
   \begin{chorus} 
