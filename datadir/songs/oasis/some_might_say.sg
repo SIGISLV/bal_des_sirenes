@@ -4,6 +4,8 @@
   [by={Oasis},cover={some_might_say},album={(What's the Story) Morning Glory?}]
   
   \cover
+  \musicnote{Intro}
+  
   
   \begin{verse*}
     \musicnote {\Intro :}

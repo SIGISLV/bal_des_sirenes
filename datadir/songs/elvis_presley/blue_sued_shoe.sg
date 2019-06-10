@@ -78,5 +78,6 @@
     \[A]Blue blue blue suede shoes
     You can \[E]do anything but \[D]lay off of my blue suede \[A]shoes.
   \end{verse*}
+  \lilypond{blue_sued_shoe_lick}
   
 \endsong

@@ -41,8 +41,8 @@ content:
   - section : "Rock français"
   - "jean_jacques_goldman/il_suffira_dun_signe.sg"
   - "telephone/un_autre_monde.sg"
-  - "jean_jacques_goldman/quand_la_musique_est_bonne.sg"
   - "telephone/ca_cest_vraiment_toi.sg"
+  - "jean_jacques_goldman/quand_la_musique_est_bonne.sg"
 
 template:
   default.tex:

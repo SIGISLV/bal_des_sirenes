@@ -1,9 +1,12 @@
-\selectlanguage{english}
+ \selectlanguage{english}
 \songcolumns{2}
 \beginsong{Jailhouse rock}
   [by={Elvis Presley},cover={jailhouse_rock},album={Jailhouse rock}]
   
   \cover
+  
+  \musicnote{Lick chorus}
+  \lilypond{jailhouse_rock_lick}
   
   \begin{verse}
 	\[Eb]The \[E]warden threw a party in the county jail \[Eb]    \[E] 
@@ -33,6 +36,7 @@
 	Was a-\[E]dancin' to the \[A7]Jail-house \[E]Rock!
   \end{chorus}
   
+  
   \begin{verse}
 	\[Eb]Numb\[E]er forty seven said to Number Three:    \[Eb]    \[E] 
 	\[Eb]You'\[E]re the cutest jailbird I ever did see.  \[Eb]    \[E] 
@@ -46,6 +50,9 @@
 	Every\[B7]body in the whole cell \[A7]block
 	Was a-\[E]dancin' to the \[A7]Jail-house \[E]Rock!
   \end{chorus}
+  
+  \musicnote {Solo}
+  \lilypond{jailhouse_rock_solo}
 
   \begin{verse}
 	\[Eb]The \[E]sad sack was a-sittin' on a block of sto\[Eb]ne  \[E] 
@@ -72,7 +79,7 @@
 	Lets \[A7]Rock !
 	Lets \[E]Rock !
 	Every\[B7]body in the whole cell \[A7]block
-	Was a-\[E]dancin' to the \[A7]Jail-house \[E]Rock!
+	Was a-\[E]dancin' to the \[A7]Jail-house \[E]Rock! \rep{3}
   \end{chorus}
 
 \endsong
