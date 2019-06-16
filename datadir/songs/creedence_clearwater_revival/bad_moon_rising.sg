@@ -45,8 +45,12 @@
   
   \begin{verse*}
   \musicnote {Solo}
-    [D] [A] [G] [D] \rep{4} 
+    [D] [A] [G] [D] \rep{4}
+    [G] [D] [A] [G] [D]
   \end{verse*}
+  
+  \musicnote {Speed up}
+   [D] \echo until Paul start sing
 
   \begin{repeatedchords}
     \begin{verse}

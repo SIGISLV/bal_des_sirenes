@@ -1,0 +1,52 @@
+book:
+  lang: fr
+  encoding: utf8
+  datadir: "../datadir"
+  pictures: yes
+  template: patacrep.tex
+  onesongperpage: yes
+
+  
+chords:
+  show: yes
+  diagramreminder: all
+  diagrampage : none
+  repeatchords: yes
+  lilypond: yes
+  instrument: guitar
+  tablatures: no
+  notation: alphascale
+
+content:
+  - section : "Session 1"
+  - "queen/crazy_little_thing_called_love.sg"
+  - "elvis_presley/blue_sued_shoe.sg"
+  - "elvis_presley/jailhouse_rock.sg"
+  - "black_keys/lonely_boy.sg"
+  - "daft_punk/get_lucky.sg"
+  - section : "Session 2"
+  - "ed_sheeran/Thinking_out_loud.sg" 
+  - "jimmy_eat_world/hear_you_me.sg"
+  - "coldplay/fix_you.sg"
+  - "oasis/some_might_say.sg"
+  - section : "Session 3"
+  - "creedence_clearwater_revival/proud_mary.sg"
+  - "creedence_clearwater_revival/bad_moon_rising.sg"
+  - "creedence_clearwater_revival/looking_out_my_backdoor.sg"
+  - "eric_clapton/sweet_home_chicago.sg"
+  - section : "Session 4" 
+  - "queen/we_will_rock_you.sg"
+  - "telephone/ca_cest_vraiment_toi.sg"
+  - "bill_haley_and_his_comets/rock_around_the_clock.sg"
+  - "elvis_presley/burning_love.sg"
+  - "chuck_berry/johnny_b_goode.sg"
+
+template:
+  default.tex:
+    title: "Bal des Sirènes"
+    author: "Lewis Villierme"
+  patacrep.tex:
+    picture: "img/QT_BrandNew.png"
+    subtitle: "La playlist des Quick Tranfer pour le bal des Sirènes le 22 juin 2019"
+    email: "lewisvillierme@gmail.com"
+    url: "https://github.com/SIGISLV/bal_des_sirenes"
