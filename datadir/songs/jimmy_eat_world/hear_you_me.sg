@@ -4,12 +4,19 @@
   [by={Jimmy Eat World},cover={hear_you_me},album={Bleed American}]
   
   \cover
+  
+  
+  Effet : Acoustique
+  
+  
   \gtab{D}{X00232}
   \gtab{Asus4}{002230}
   \gtab{Bm7add11}{X20230}
   \gtab{G}{320033}
   \gtab{Bm}{X24432}
 
+  
+  
   \begin{verse*}
   \musicnote {Intro}
 	[D]  [Asus4]  [Bm7add11]  [G]

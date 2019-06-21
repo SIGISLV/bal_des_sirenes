@@ -5,6 +5,8 @@
   
   \cover
   
+  Effet : Acoustique
+  
   \begin{verse*}
   \musicnote {Intro} 
 	[D] [Dsus4] [D]
@@ -62,7 +64,7 @@
 
   \begin{verse*}
   \musicnote{outro}
-    I'm ju\[D]st a hunka hunka bur\[G]ning love (repeat and fade)
+    I'm ju\[D]st a hunka hunka bur\[G]ning love \echo X6
   \end{verse*}
   
 \endsong

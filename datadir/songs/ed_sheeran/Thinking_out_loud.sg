@@ -3,16 +3,20 @@
 \beginsong{Thinking out loud}
   [by={Ed Sheeran},cover={Thinking_Out_Loud_cover},album={X}]
   \cover
+  
+  Effet : Acoustique
+  
+  
   \gtab{D}{xx0232}
   \gtab{D|F\shrp}{2x0232}
   \gtab{G}{320033}
   \gtab{A}{x02220}
   \gtab{Bm}{2:x02210}
   \gtab{Em}{022000}
+
   
   \begin{verse*}
-    \musicnote {Tune down half step}
-    \musicnote {\Intro :} [D] [D|F\shrp] [G] [A]X2
+    D] [D|F\shrp] [G] [A]X2
   \end{verse*}
   
   \begin{verse}
@@ -25,7 +29,6 @@
   \end{verse}
 
   \begin{verse*}
-  \musicnote {Pre-chorus}
     \[Em]People fall in love in myst\[A]erious \[D]ways
     \[Em]Maybe just the touch of h\[A]and
     Well \[Em]me I fall in love with you e\[A]very single\[Bm] day 
@@ -54,7 +57,6 @@
 
 
   \begin{verse*}
-  \musicnote {Pre-chorus}
     \[Em]People fall in love in mys\[A]terious \[D]ways
     \[Em]And maybe it's all part of \[A]plan
     Well I'\[Em]ll continue making the s\[A]ame mi\[Bm]stake 
@@ -71,14 +73,12 @@
   \end{chorus}
 
   \begin{verse*}
-  \musicnote {Interlude}
     That baby \[Bm]we f\[A]ound \[G]love \[D|F\shrp]right whe\[Em]re we\[A] are\[D]
   \end{verse*}
 
 
   \begin{verse*}
-  \musicnote {Solo}
-    [D] [D|F\shrp] [G] [A] X4
+    [D] [D|F\shrp] [G] [A] X4 \echo {solo}
   \end{verse*}
 
   \begin{chorus}
@@ -90,7 +90,6 @@
   \end{chorus}
 
   \begin{verse*}
-  \musicnote {Outro}
     That maybe \[Bm]we f\[A]ound \[G]love ri\[D|F\shrp]ght wh\[Em]ere w\[A]e ar\[D]e
     Baby \[Bm]we f\[A]ound \[G]love ri\[D|F\shrp]ght whe\[Em]re we\[A] are\[D] 
     And w\[Bm]e fo\[A]und l\[G]ove \[D|F\shrp]right wh\[Em]ere w\[A]e ar\[D]e

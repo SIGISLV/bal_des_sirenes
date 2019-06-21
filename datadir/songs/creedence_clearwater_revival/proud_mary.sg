@@ -1,9 +1,14 @@
 \selectlanguage{english}
 \songcolumns{2}
 \beginsong{Proud Mary}
-  [by={Creedence Clearwater Revival},album={Bayou Country}]
+  [by={Creedence Clearwater Revival},cover={proud-mary},album={Bayou Country}]
 
   \cover
+  
+
+  Effet : Acoustique
+  
+  
   \gtab{C}{032010}
   \gtab{A}{002220}
   \gtab{G}{355433}
@@ -11,6 +16,7 @@
   \gtab{D}{X00232}
   \gtab{Bm}{X24432}
 
+  
   \musicnote {\Intro: \nolyrics \[C A C A C A G F G D}
 
 

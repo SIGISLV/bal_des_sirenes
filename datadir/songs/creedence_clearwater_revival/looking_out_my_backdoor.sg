@@ -4,6 +4,8 @@
   [by={Creedence\ Clearwater\ Revival},cover={looking_out_my_back_door},album={Cosmo's Factory}]
   \cover
   
+  Effet : Acouqtique
+  
   \begin{verse*}
 	\musicnote { Capo : 3rd fret}
     \musicnote {\Intro :} 
@@ -41,6 +43,7 @@
 
   \begin{verse*}
     \musicnote {Bridge 2}
+    [D][C][G][Em]
     \[D]Tambourines and elephants are pl\[C]aying in the b\[G]and
 	Won't you take a ride o\[Em]n the flyin' s\[D]poon, doo, doo, doo
 	\[G]Bother me tomorrow, \[Em]today I'll find no sorrow
@@ -53,6 +56,7 @@
   \end{verse*}
   
   \begin{verse}
+  [E][D][F\shrp m]
     \[E]Forward troubles Illinois, \[D]lock the front door, oh boy
 	\[A]Look at all the \[F\shrp m]happy creatures \[E]dancing on the lawn
 	(Slow down)

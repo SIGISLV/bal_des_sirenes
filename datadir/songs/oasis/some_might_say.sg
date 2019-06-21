@@ -4,8 +4,9 @@
   [by={Oasis},cover={some_might_say},album={(What's the Story) Morning Glory?}]
   
   \cover
-  \musicnote{Intro}
   
+  
+  Effet : Crunch disto
   
   \begin{verse*}
     \musicnote {\Intro :}
@@ -63,11 +64,10 @@
   
   \begin{verse*}
     \musicnote {\Outro :}
-	\musicnote {repeat x2}
-	\[G]Some might s\[D]ay (s\[G]ome might \[Em]say)
-	\musicnote {repeat x8}
-	\[Em]You know what s\[G]ome might s\[D]ay (you know w\[G]hat some might \[Em]say)
-	\[Em]Woo!           \[G]           \[D]              \[G]               \[Em]  
+	\[G]Some might s\[D]ay (s\[G]ome might \[Em]say) \echo X2
+	\[Em]You know what s\[G]ome might s\[D]ay (you know w\[G]hat some might \[Em]say) \echo X4
+	[F\shrp m] [F] [Cadd9] [A] 
+	[D] [Bm] [G] [D] [A]  
   \end{verse*}
   
 \endsong
